@@ -1,0 +1,1 @@
+This project includes different classification algorithms implemented on the Dataset from the kaggle competition Titanic - Machine Learning from Disaster (https://www.kaggle.com/competitions/titanic).
